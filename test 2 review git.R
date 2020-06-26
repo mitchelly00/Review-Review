@@ -139,3 +139,5 @@ print(scatterplot2)
 
 #finding corratlation
 cor(data_no_NAS$log_Emmisions,data_no_NAS$log_GDP)
+
+
